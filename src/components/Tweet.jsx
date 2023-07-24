@@ -4,7 +4,7 @@ import Timestamp from "./Timestamp"
 import Message from "./Message"
 import Actions from "./Actions"
 
-function Tweet() {
+function Tweet(tweet) {
   return (
     <div className="tweet">
       

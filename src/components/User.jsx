@@ -1,5 +1,5 @@
 function User({name, handle}) {
-  console.log({name, handle})
+  console.log()
     return (
      
 <span className="user">
